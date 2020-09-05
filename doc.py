@@ -113,11 +113,13 @@ def doxygen(target=None):
 def examples(target=None):
     run_examples = ['vector-add',
                     'std-vector',
+                    'event-elapsed-time',
                     'fall-back',
                     'kernel-model',
                     'memory-model',
                     'nd-range',
                     'get-platforms',
+                    'get_devices',
                     'gpu-selector',
                     'execution-model']
     compiler = 'dpcpp'
