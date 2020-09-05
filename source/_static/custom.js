@@ -1,7 +1,7 @@
 //configure tms    
 var wapLocalCode = 'us-en'; 
 //dynamically set per localized site, see mapping table for values    
-var wapSection = "oneapi";     
+var wapSection = "oneapi-docs";
 //load tms    
 (function() {                 
     var host = (window.document.location.protocol == 'http:') ? "http://www.intel.com" : "https://www.intel.com";
