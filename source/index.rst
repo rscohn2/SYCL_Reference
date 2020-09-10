@@ -1,3 +1,7 @@
+..
+  Copyright 2020 Intel
+  SPDX-License-Identifier: CC-BY-4.0
+
 .. _index:
 
 ***************

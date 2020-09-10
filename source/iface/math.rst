@@ -1,5 +1,6 @@
 ..
-  Copyright 2020 Intel Corporation
+  Copyright 2020 The Khronos Group Inc.
+  SPDX-License-Identifier: CC-BY-4.0
 
 **************
 Math functions
