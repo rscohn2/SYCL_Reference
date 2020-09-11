@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2020 Intel Corporation
+..
+.. SPDX-License-Identifier: CC-BY-4.0
+
 .. _execution-model:
 
 Execution Model
@@ -62,11 +66,13 @@ relationships of the previously discussed ``ND-range``, ``work-group``,
 and ``work-item``.
 
 .. literalinclude:: /examples/nd-range.cpp
+   :lines: 5-
    :linenos:		    
 
 With the following output:
 
 .. literalinclude:: /examples/nd-range.out
+   :lines: 5-
 
 .. rubric:: ND-Range Parallelism Example
 

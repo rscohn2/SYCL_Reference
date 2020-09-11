@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2020 Intel Corporation
+..
+.. SPDX-License-Identifier: CC-BY-4.0
+
 .. _memory-model:
 
 Memory Model
@@ -44,6 +48,7 @@ The following code sample exercises different memory objects and
 accessors. The highlighted lines are discussed below.
 
 .. literalinclude:: /examples/memory-model.cpp
+   :lines: 5-
    :linenos:
    :emphasize-lines: 8,9,26-31
 

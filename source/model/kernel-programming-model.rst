@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2020 Intel Corporation
+..
+.. SPDX-License-Identifier: CC-BY-4.0
+
 .. _kernel-programming-model:
 
 Kernel Programming Model
@@ -22,4 +26,5 @@ The following code sample shows two combinations of invoking kernels:
 #. parallel_for and functor (lines 8-16 and line 46)
 
 .. literalinclude:: /examples/kernel-model.cpp
-   :linenos:
+   :lines: 5-
+   :linenos:		    

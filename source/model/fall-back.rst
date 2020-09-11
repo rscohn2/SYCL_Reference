@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2020 Intel Corporation
+..
+.. SPDX-License-Identifier: CC-BY-4.0
+
 .. _fall-back:
 
 Fall Back
@@ -18,6 +22,7 @@ submit function and this secondary queue is used if the device kernel
 runs into issues with submission to the first device.
 
 .. literalinclude:: /examples/fall-back.cpp
+   :lines: 5-
    :linenos:		    
 
 .. seealso::
